@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Log.v(TAG, "000");
+        Log.v(TAG, "GitTestBrc2");
 
     }
 }
